@@ -8,6 +8,8 @@ How to Play
 
 - Use the mouse to move
 - Space slows time and freezes your stack, but makes you lose health
+- Whenever you let a bar drop, you use health. The amount of health you use is equal
+  to the length of the bar (i.e., the bigger the bar, the more health you lose)
 - Health bar is at the top
 - Try to get to the top without losing all your health
 
